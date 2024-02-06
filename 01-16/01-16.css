@@ -1,0 +1,15 @@
+.logoImage{
+    width: 100px;
+    
+}
+
+.navigation{
+    display: inline;
+}
+h3,h4 {
+    text-align: center;
+}
+section{
+    border: 2px solid black;
+
+}
