@@ -1,0 +1,90 @@
+@font-face {
+    font-family: NotoSans ;
+    src: url(../FONTS/NotoSansJP-VariableFont_wght.ttf);
+}
+    
+
+h1 {size: 15px;}
+.purple {
+    color: rgb(130, 120, 239);
+}
+.logo {
+    width: 20px;
+    height: 20px;
+margin: 3px;
+text-align: right;
+float: right;
+
+}
+.head {
+    padding-bottom: 100px;
+}
+.purpleBackground {
+    background-color: rgb(130, 120, 239);
+    color: white;
+    text-align: center;
+    height: 800px;
+padding-top: 250px;
+padding-inline: 15px;   
+}
+.Tour {
+    color: white;
+    background-color: rgb(130, 120, 239);
+    padding: 5px;
+    }
+    .about {
+        text-align: center;
+        font-size: 25px;
+        padding-top: 40px;
+    }
+    .hiking {
+        width: 700px;
+        height: 400px;
+    padding-top: 40px;
+    }
+    .purpleText {
+        color:rgb(130, 120, 239) ;
+        
+    }
+    .ourService {
+        text-align: center;
+    }
+    .purpleSection {
+        color: rgb(130, 120, 239);
+    }
+    .wallet {
+        background-color: rgb(119, 57, 251);
+         display: block;
+        padding: 10px;
+        width: 30px;
+        text-align: center;
+
+        
+    }
+    .box {
+        background-color: rgb(247, 247, 247);
+        height: 500px;
+        width:300px;
+
+
+        
+    }
+    .grid-container {
+        display: flex;
+    
+    }
+     
+    .tree {
+        background-color: rgb(119, 57, 251);
+         display: block;
+        padding: 10px;
+        width: 30px;
+        text-align: center;
+    }
+    .socks {
+        background-color: rgb(119, 57, 251);
+        display: block;       
+        padding: 10px;
+        width: 30px;
+        text-align: center;
+    }
